@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MakeMyTrip Flight Search Suite" verbose="1">
+    <test name="Flight Search Tests">
+        <classes>
+            <class name="flightsSearch.MakeMyTripFlightSearch"/>
+        </classes>
+    </test>
+</suite>
